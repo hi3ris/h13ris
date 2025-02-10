@@ -64,7 +64,7 @@ Born in the digital realm of X, Y, our hero emerged from the prestigious iPnet I
 
 ### 🖥️ Code Realm Metrics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaffeeJoffer&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hi3ris&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hi3ris&show_icons=true&theme=dark)
 
 ---
