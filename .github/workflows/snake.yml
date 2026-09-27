@@ -14,12 +14,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: generate snake.svg
+      - name: generate snake svgs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake-dark.svg?palette=github-dark&color_snake=f4d03f&color_dots=0c0c0a,2a2a25,8a877d,ece8de,f4d03f
+            dist/snake-light.svg?palette=github-light&color_snake=0d6b3f&color_dots=ebe5d2,b8ac88,c9a227,0d6b3f,1a1a14
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
